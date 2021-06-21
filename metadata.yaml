@@ -1,5 +1,5 @@
-homepage: "https://github.com/turing-digital/gtm-ga4-template"
-documentation: "https://github.com/turing-digital/gtm-ga4-template/blob/main/README.md"
+homepage: "https://github.com/turingdigital-analytics/ga4-user-properties"
+documentation: "https://github.com/turingdigital-analytics/ga4-user-properties/blob/main/README.md"
 versions:
   - sha: 7cf14a0a079ed76cd650a366386087417753f3e3
     changeNotes: Initial release.
