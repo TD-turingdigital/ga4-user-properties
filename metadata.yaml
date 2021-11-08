@@ -1,6 +1,8 @@
 homepage: "https://github.com/turingdigital-analytics/ga4-user-properties"
 documentation: "https://github.com/turingdigital-analytics/ga4-user-properties/blob/main/README.md"
 versions:
+  - sha: 1254a3c2d2909604d5b9c7fab120f3d874fb3532
+    changeNotes: Modify error.
   - sha: 424e08becd8f858b1ca407d9239078d1d2da78ae
     changeNotes: Update.
   - sha: 7cf14a0a079ed76cd650a366386087417753f3e3
